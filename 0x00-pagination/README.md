@@ -6,7 +6,7 @@
 <br>
 <img src="https://github.com/Basant-Adel/alx-backend/blob/cc69a06790662bdfdcb44b31aee9dc0742064b3b/0x00-pagination/meme2.png">
 <br>
-<img src="https://github.com/Basant-Adel/alx-backend/blob/cc69a06790662bdfdcb44b31aee9dc0742064b3b/0x00-pagination/meme3.png">
+<img src="https://github.com/Basant-Adel/alx-backend/blob/4d9ccc463d355ea00f756355538d9c8a040d20e2/0x00-pagination/meme3.png">
 
 ## Resources
 
